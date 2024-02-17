@@ -11,8 +11,8 @@ N/A
 
 This application can be used by opening our integraded terminal and running the command 'node index.js'. This will prompt questions regarding what you would like the logo to be made into. The questions include the text, text color, shape of logo, and color of the shape of the logo. After these question have been answered a new file on the left named 'logo.svg' will be created. By clicking on the file, you can view your logo by text or right click the file and open in a live server to view the logo that was just created. 
 
-![screenshot1](assets/images/screenshot(30).png)
-![screenshot1](assets/images/screenshot(29).png)
+![screenshot1](/images/screenshot(30).png)
+![screenshot1](/images/screenshot(29).png)
 
 ## Deployed Link
 
