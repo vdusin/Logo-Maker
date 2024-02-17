@@ -56,7 +56,6 @@ async function svgBuilder() {
   </svg>`
     
   fs.writeFileSync('logo.svg', svg)
-
 }
 
 
